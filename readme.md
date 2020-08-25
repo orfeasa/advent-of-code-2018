@@ -3,4 +3,4 @@
 
 |Day|Name|Stars|Code Folder|
 |---|---|---|---|
-|[01](https://adventofcode.com/2018/day/1)|Chronal Calibration|⭐⭐|[link](Day 1 - Chronal Calibration/)|
+|[01](https://adventofcode.com/2018/day/1)|Chronal Calibration|⭐⭐|[link](<Day 1 - Chronal Calibration/>)|
